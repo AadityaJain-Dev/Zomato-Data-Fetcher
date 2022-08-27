@@ -1,0 +1,23 @@
+{
+  "name": "zomato-data-fetcher",
+  "version": "1.0.0",
+  "description": "These scripts can be used to fetch various types of data from zomato website.",
+  "main": "get_zomato_all_cities_data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Aditya Jain",
+    "email": "hey@aadityajain.dev",
+    "url": "https://www.aadityajain.dev/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^16.2.0"
+  }
+}
