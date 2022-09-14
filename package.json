@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AadityaJain-Dev/Zomato-Data-Fetcher.git"
+  },
   "keywords": [],
   "author": {
     "name": "Aditya Jain",
@@ -13,6 +17,10 @@
     "url": "https://www.aadityajain.dev/"
   },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AadityaJain-Dev/Zomato-Data-Fetcher/issues"
+  },
+  "homepage": "https://github.com/AadityaJain-Dev/Zomato-Data-Fetcher#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
